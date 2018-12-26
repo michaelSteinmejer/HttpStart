@@ -1,0 +1,11 @@
+C:\Source\HttpStart\HttpStart\bin\Debug\netcoreapp2.0\HttpStart.deps.json
+C:\Source\HttpStart\HttpStart\bin\Debug\netcoreapp2.0\HttpStart.runtimeconfig.json
+C:\Source\HttpStart\HttpStart\bin\Debug\netcoreapp2.0\HttpStart.runtimeconfig.dev.json
+C:\Source\HttpStart\HttpStart\bin\Debug\netcoreapp2.0\HttpStart.dll
+C:\Source\HttpStart\HttpStart\bin\Debug\netcoreapp2.0\HttpStart.pdb
+C:\Source\HttpStart\HttpStart\obj\Debug\netcoreapp2.0\HttpStart.csprojAssemblyReference.cache
+C:\Source\HttpStart\HttpStart\obj\Debug\netcoreapp2.0\HttpStart.csproj.CoreCompileInputs.cache
+C:\Source\HttpStart\HttpStart\obj\Debug\netcoreapp2.0\HttpStart.AssemblyInfoInputs.cache
+C:\Source\HttpStart\HttpStart\obj\Debug\netcoreapp2.0\HttpStart.AssemblyInfo.cs
+C:\Source\HttpStart\HttpStart\obj\Debug\netcoreapp2.0\HttpStart.dll
+C:\Source\HttpStart\HttpStart\obj\Debug\netcoreapp2.0\HttpStart.pdb
